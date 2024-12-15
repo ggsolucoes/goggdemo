@@ -1,2 +1,2 @@
 # goggdemo
-Aplicação de demonstração do uso da lib gogg
+Aplicação de demonstração do uso da lib gogg.
